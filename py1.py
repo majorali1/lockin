@@ -10,7 +10,7 @@ randomnum = random.randint(range1,range2)
 
 while True:
     try:
-        answer = int(input("\n game time!, what is the chosen num? : "))
+        answer = int(input("\n game time!, what is the chosen num?"))
         tries += 1 
         if answer > randomnum:
             print("\n wrong!!, your guess was higher")
