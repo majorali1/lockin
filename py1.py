@@ -1,5 +1,7 @@
 import random
 
+print("The kingdom of Kinskonskuans assigned you the hero of this world a mission to save the princess")
+print("KiNSKOnSKUans GAME game game game.")
 print("tutorial timee!!!")
 
 tries = 0
