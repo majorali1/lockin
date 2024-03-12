@@ -26,3 +26,4 @@ while True:
         print("NOPE")
 print("kiyaaaaaaahhhh")
 print("i am useful at being useless")
+print("HAHAHHA ZZA WWAAAARRDOOOO *bushhwhhshshhsdh*")
