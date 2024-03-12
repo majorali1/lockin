@@ -25,3 +25,4 @@ while True:
     except ValueError:
         print("NOPE")
 print("kiyaaaaaaahhhh")
+print("i am useful at being useless")
